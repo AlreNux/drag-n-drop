@@ -1,0 +1,9 @@
+.app {
+  padding: 80px 40px;
+  color: var(--main-color);
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+}

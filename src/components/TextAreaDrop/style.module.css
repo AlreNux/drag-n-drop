@@ -1,0 +1,10 @@
+.itemDrop {
+  margin: 15px 0;
+  padding: 20px 0;
+  border: var(--main-border);
+  color: var(--main-color);
+}
+
+.itemDrop::placeholder {
+  opacity: 50%;
+}

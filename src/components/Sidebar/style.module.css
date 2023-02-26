@@ -1,0 +1,20 @@
+.container {
+  height: 75vh;
+  width: 100%;
+  max-width: 300px;
+
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px 20px 0 0;
+  padding: 20px 40px;
+
+  background-color: var(--main-background-color);
+  border: var(--main-border);
+
+  color: var(--main-color);
+}
+
+.image {
+  border: var(--main-border);
+}
